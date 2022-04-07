@@ -1,0 +1,23 @@
+{
+  "name": "model",
+  "version": "1.0.0",
+  "description": "model window",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usman125471/MODEL-WINDOW.git"
+  },
+  "author": "Muhammad Usman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usman125471/MODEL-WINDOW/issues"
+  },
+  "homepage": "https://github.com/usman125471/MODEL-WINDOW#readme",
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  }
+}
